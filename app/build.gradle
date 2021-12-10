@@ -6,8 +6,8 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "com.example.lab9"
-        minSdk 21
+        applicationId "com.example.lab9_2"
+        minSdk 29
         targetSdk 31
         versionCode 1
         versionName "1.0"
